@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Google Classroom Alert
 // @namespace    http://tampermonkey.net/
 // @license      GPL
