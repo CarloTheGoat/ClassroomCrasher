@@ -11720,3 +11720,5 @@ alert("YOU GOT KICKED FROM THIS CLASS, if the problem procedes please contact Go
 alert("YOU GOT KICKED FROM THIS CLASS, if the problem procedes please contact Google Classroom Support.");
 alert("YOU GOT KICKED FROM THIS CLASS, if the problem procedes please contact Google Classroom Support.");
 alert("YOU GOT KICKED FROM THIS CLASS, if the problem procedes please contact Google Classroom Support.");    
+
+})();
